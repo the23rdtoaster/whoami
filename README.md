@@ -1,5 +1,7 @@
 # Hello world, I'm Teju
 
+<img align="right" src="Hmm cat.jpg" width="320" height="320"/>
+
 I'm **Tejeshwar M**  
 As a student, I try and get my fingers dirty in everything that interests me. My pasion's narrowed in on understanding and building Ai Systems that make an impact. 
 
@@ -11,4 +13,4 @@ As a student, I try and get my fingers dirty in everything that interests me. My
 
 
 Your calling may lay in the work your avoiding, so don't shy away...  
-( Inspo from [@theperiperi](https://github.com/theperiperi) )
+( Inspo from a senior [@theperiperi](https://github.com/theperiperi) )
