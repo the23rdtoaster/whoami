@@ -7,7 +7,7 @@ As a student, I try and get my fingers dirty in everything that interests me. My
 
 - **GitHub:** https://github.com/the23rdtoaster  
 - **LinkedIn:** www.linkedin.com/in/tejeshwar-m-255582372
-- - **Portfolio:** In the Works :)
+- **Portfolio:** In the Works :)
 
 
 Your calling may lay in the work your avoiding, so don't shy away...
