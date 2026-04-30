@@ -3,7 +3,7 @@
 <img align="right" src="Hmm cat.jpg" width="320" height="320"/>
 
 I'm **Tejeshwar M**  
-As a student, I try and get my fingers dirty in everything that interests me. My pasion's narrowed in on understanding and building Ai Systems that make an impact. 
+As a student, I try and get my fingers dirty in everything that interests me. My passion's narrowed in on understanding and building Ai Systems that make an impact. 
 
 ### Connect with Me  
 
